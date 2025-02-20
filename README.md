@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi 👋, I'm Kaveesh Shetty
+DevOps, Cloud and Java Enthusiast!!!
+🌱 I’m currently learning Golang, Kubernetes, AWS, AI....
 
-<!--
-**iam-shetty/iam-shetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 I’m looking to collaborate on DevOps, Golang
 
-Here are some ideas to get you started:
+🤝 I’m looking for help with DevOps, Cloud, Golang, Open Source, Developer Relations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about DevOps, Cloud, Golang, Open Source, Developer Relations
+
+📫 How to reach me kaveeshshetty6@gmail.com
+
+⚡ Fun fact Sometimes I'm a night owl & sometimes an early bird!
+
+Languages and Tools:
+aws bash docker express git go java jenkins kubernetes linux python
+
+
