@@ -1,5 +1,5 @@
-Hi 👋, I'm Kaveesh Shetty
-DevOps, Cloud and Java Enthusiast!!!
+Hi 👋, I'm Kaveesh Shetty <br>
+DevOps, Cloud and Java Enthusiast!!! <br>
 🌱 I’m currently learning Golang, Kubernetes, AWS, AI....
 
 👯 I’m looking to collaborate on DevOps, Golang
