@@ -1,14 +1,13 @@
 <div align="center">
 
-# Kaveesh Shetty  
+# Hi 👋, I'm Kaveesh Shetty
 
-## DevOps&Cloud  
+## DevOps & Cloud Enthusiast..  
 
 🛠️ **DevOps** | ☁️ **Cloud** | ☕ **Java** | 🤖 **AI**  
 
 </div>
-<h1 align="center">Hi 👋, I'm Kaveesh Shetty</h1>
-<h3 align="center">DevOps and Cloud Enthusiast..</h3>
+
 
 - 🌱 I’m currently learning **DevOps, Golang, Kubernetes**
 
