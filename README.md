@@ -9,7 +9,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **DevOps, Golang, Kubernetes**
+- 🌱 I’m currently learning ******
 
 - 👯 I’m looking to collaborate on **DevOps, Golang, Open Source projects**
 
