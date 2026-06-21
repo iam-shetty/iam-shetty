@@ -17,7 +17,19 @@
 
 - 💬 Ask me about **DevOps, Cloud, Golang, Open Source**
 
-- 📫 How to reach me **kaveeshshetty6@gmail.com**
+- 📫 How to reach me: **kaveeshshetty6@gmail.com**
+
+- <div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="180"><b>⚡ ~40%</b><br/><sub>MTTR Reduction</sub></td>
+   <td align="center" width="180"><b>💰 ~33%</b><br/><sub>AWS Cost Reduction</sub></td>
+  
+  </tr>
+</table>
+
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
